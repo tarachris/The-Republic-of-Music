@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>The Republic of Music|Where our Favorite 80's Music Lives</title>
+  <link rel="stylesheet" type="text/css" href="stylesheet.css" />
+</head>
+
+<body>
+  <div id="li">
+    <ul>
+      <ul style="margin: left">
+        <li><a href="file://localhost/Users/tarawilliams/Desktop/website/DuranDuran">Artists</a></li>
+        <li><a href="news.asp">Events</a></li>
+        <li><a href="fan.asp">Fan Stories</a>
+          <li>
+            <li><a href="about.asp">About Us</a></li>
+      </ul>
+      <h6>The Republic of Music|Where our Favorite 80's Music Lives</h6>
+      <footer>
+        <div id="icons">
+          <ul>
+            <li>
+              <a href="http://www.twitter.com/Tchriswill" title="Twitter.com">
+                <img src="twitter02_dark.png" alt="Twitter" width="30" height="30" alt="Twitter icon"></li>
+            <li>
+              <a href="http://www.facebook.com" title="Facebook">
+                <img src="facebook_dark.png" alt="Facebook" width="30" height="30"></li>
+            <a href="http://www.vimeo.com">
+              <li><img src="vimeo_dark.png" width="30" height="30"></li>
+          </ul>
+        </div>
+      </footer>
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+      <script src="tarajs.js"></script>
+</body>
+
+</html>
