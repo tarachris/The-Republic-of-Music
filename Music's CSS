@@ -1,0 +1,31 @@
+body {
+  background-image: url("concert.png");
+  font-family: "Futura Medium";
+  font-size: 26px;
+  text-align: center;
+}
+
+h6 {
+  font-family: "Shree Devanagari 714";
+  font-size: 35px;
+  font-weight: bold;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  text-align: left;
+  overflow: hidden;
+  font-weight: bold;
+  font-size: 18px;
+  font-family: "Shree Devanagari 714 Bold", sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  background-color: #D5DCE0;
+}
